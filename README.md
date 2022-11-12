@@ -1,5 +1,5 @@
 # Rock Paper Scissors game with AI
-A Rock Paper Scissors game with AI that's played by webcam.  
+A Rock Paper Scissors game with AI thats uses CV to play over webcam. 
 
 
 
